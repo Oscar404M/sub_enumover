@@ -1,7 +1,7 @@
 import sys
 import requests
 import threading
-import dns.resolver  # مكتبة لفحص DNS
+import dns.resolver
 from time import sleep
 
 # banner
